@@ -1,0 +1,51 @@
+_repo: The-Lifted-Veil_2165
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Lewes, M. E. (Marian Evans)
+    - Evans, Mary Anne
+    - Evans, Marian
+    - Cross, Marian Evans
+    - Lewes, Marian Evans
+    - Cross, Mary Ann
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+description: <p><b>Horror was my familiar.</b><br><br> Published the same year as
+  her first  novel, <i>Adam Bede</i>, this overlooked work displays the gifts for
+  which George Eliot  would become famous--gritty realism, psychological insight,
+  and idealistic moralizing.  It is unique from all her other writing, however, in
+  that it represents the only  time she ever used a first-person narrator, and it
+  is the only time she wrote about  the supernatural.<br><br> The tale of a man who
+  is incapacitated by visions of the future  and the cacophony of overheard thoughts,
+  and yet who can't help trying to subvert  his vividly glimpsed destiny, it is easy
+  to read <i>The Lifted Veil </i>as being autobiographically  revealing--of Eliot's
+  sensitivity to public opinion and her awareness that her days  concealed behind
+  a pseudonym were doomed to a tragic unveiling (as indeed came to  pass soon after
+  this novella's publication). But it is easier still to read the story  as the exciting
+  and genuine precursor of a moody new form, as well as an absorbing  early masterpiece
+  of suspense.<br><br> <b>The Art of The Novella Series<br><br> </b>Too short to be
+  a novel, too long to be a short story, the novella is generally unrecognized by
+  academics and publishers. Nonetheless, it is a form beloved and practiced by literature's
+  greatest writers. In the Art Of The Novella series, Melville House celebrates this
+  renegade art form and its practitioners with titles that are, in many instances,
+  presented in book form for the first time.
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychological fiction'
+- !lcsh 'Paranormal fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Lifted Veil
+url: http://www.gutenberg.org/ebooks/2165
